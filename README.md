@@ -20,3 +20,7 @@ MQTT.js
 
 * Update information in the MQTT Information.
 * Upload this the your own Alexa dev portal.
+
+### A concrete example here build for a personal project : 
+
+https://medium.com/@arradimohamed/voice-controlled-smart-home-with-amazon-alexa-skill-and-ios-app-3a8622bf2b55#.3dvdor4mv
